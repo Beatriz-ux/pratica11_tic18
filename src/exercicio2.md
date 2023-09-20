@@ -1,0 +1,2 @@
+-Coesão:funcional, porque todos os elementos dentro da função estão relacionados a essa tarefa específica, ou seja, a função faz uma única coisa: calcular o máximo e o mínimo de um vetor.
+-Acoplamento: comunicional, seguindo a arvore de decisão.
